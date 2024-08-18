@@ -20,4 +20,11 @@ To get the Todo List project running on your local machine, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/todo-list.git
+   git clone https://github.com/rajput-vinay/todo-list.git
+   
+2. cd todo-list
+   ```bash
+    cd todo-list
+3. Open the index.html file in your web browser:
+    ```bash
+    open index.html
